@@ -1,0 +1,16 @@
+co/com/rappi/training/restservicestest/utils/GeneralConstans.java
+ co.com.rappi.training.restservicestest.utils.GeneralConstans
+co/com/rappi/training/restservicestest/questions/ValidateLastResponse.java
+ co.com.rappi.training.restservicestest.questions.ValidateLastResponse
+co/com/rappi/training/restservicestest/models/UpdateUser.java
+ co.com.rappi.training.restservicestest.models.UpdateUser
+co/com/rappi/training/restservicestest/models/UserData.java
+ co.com.rappi.training.restservicestest.models.UserData
+co/com/rappi/training/restservicestest/questions/ValidateUpdateUser.java
+ co.com.rappi.training.restservicestest.questions.ValidateUpdateUser
+co/com/rappi/training/restservicestest/models/ResourceData.java
+ co.com.rappi.training.restservicestest.models.ResourceData
+co/com/rappi/training/restservicestest/utils/GetInformation.java
+ co.com.rappi.training.restservicestest.utils.GetInformation
+co/com/rappi/training/restservicestest/exceptions/ValidationException.java
+ co.com.rappi.training.restservicestest.exceptions.ValidationException
